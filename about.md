@@ -10,6 +10,12 @@ narrow: true
 
 ---
 
+Hi, I’m Marilyn. I source, synthesize, and document information.
+
+I work at the intersection of engineering, documentation, and teaching and learning systems. I build bridges by translating technical complexity into general understanding, and by turning what’s built, tacit, or assumed into readily available knowledge others can leverage. 
+
+---
+
 ## The Drive
 I’m a lifelong learner with a deep curiosity - I want to know something about anything and everything. I'm intrigued by the smallest everyday things and how they fit into the grand scheme of things. What lights up my brain is recognizing patterns across domains and making sense of seemingly unrelated ideas. I'm not satisfied with just knowing the facts; I want to understand the gaps, the connections, the _why_ behind the _what_.
 
@@ -25,7 +31,7 @@ With dual bachelor's degrees in Computer Science and Interdisciplinary Studies (
 In practice, this means I:
 - Contextualize projects for technical and non-technical audiences including stakeholders, clients, end users, and anyone curious about what internal teams are building
 - Document implicit knowledge from the processes, decisions, timelines, lessons learned, and solutions that often live in people's heads or informal channels/threads  
-- Design systems for knowledge transfer , including frameworks, templates, documentation architectures, and organizational structures that outlive individual projects
+- Design systems for knowledge transfer, including frameworks, templates, documentation architectures, and organizational structures that outlive individual projects
 - Support projects end-to-end, managing the full lifecycle, from requirements gathering and scope negotiation to risk mitigation, testing strategies, and handover documentation
 
 ---
