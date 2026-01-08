@@ -4,9 +4,6 @@ tagline: Turning tacit technical knowledge into clear systems that last.
 
 theme: minima
 
-author:
-  name: Marilyn
-
 collections:
   projects:
     output: true
