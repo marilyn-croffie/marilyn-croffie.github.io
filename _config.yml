@@ -1,11 +1,11 @@
 title: Marilyn Croffie
-description: Software Engineer & Writer
+role: Software Engineer & Writer
+tagline: Turning tacit technical knowledge into clear systems that last.
+
 theme: minima
 
 author:
   name: Marilyn
-
-markdown: kramdown
 
 collections:
   projects:
