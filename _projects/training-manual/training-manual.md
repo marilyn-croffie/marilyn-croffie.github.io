@@ -8,6 +8,8 @@ featured: true
 excerpt: "A step-by-step technical manual built to help ME 203 students understand GD&T and operate a CMM using PC-DMIS software — designed for independent lab use with clear explanations and procedural context."
 ---
 
+📄 **[Download Training Manual (PDF)](CMM_Tutorial_Manual_PC-DMIS.pdf)**
+
 ## The Context
 
 Spring 2020. The pandemic hit mid-semester. ME 203 had no assigned textbook for CMM operation. Students learned directly from the lab technician through curated lecture slides, demonstrations, and hands-on practice. When in-person lab access became uncertain, the course had no written resource students could reference independently.
