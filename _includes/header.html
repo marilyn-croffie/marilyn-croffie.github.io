@@ -1,0 +1,11 @@
+<header class="site-header">
+  <nav class="nav">
+    <a href="{{ '/' | relative_url }}" class="nav-name">Marilyn</a>
+
+    <div class="nav-links">
+      {% for item in site.data.navigation %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>
