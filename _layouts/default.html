@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% include nav.html %}
+    {{ site.head | default: "" }}
+    {% seo %}
+  </head>
 
-  <main class="container {% if page.narrow %}narrow{% endif %}">
+  <body>
     {{ content }}
-  </main>
-
-</body>
+  </body>
 </html>
