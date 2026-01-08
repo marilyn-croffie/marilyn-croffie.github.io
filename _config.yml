@@ -7,3 +7,17 @@ theme: minima
 collections:
   projects:
     output: true
+    permalink: /projects/:name/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
