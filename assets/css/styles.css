@@ -283,7 +283,15 @@ blockquote {
     font-size: 2rem;
   }
   
-  .hero-actions {
+  .capabilities {
+    grid-template-columns: 1fr;
+  }
+  
+  .cta-box {
+    padding: 40px 20px;
+  }
+  
+  .cta-buttons {
     flex-direction: column;
   }
   
