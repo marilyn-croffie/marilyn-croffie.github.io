@@ -1,11 +1,12 @@
 ---
 layout: project
 title: "GD&T Training Manual for CMM PC-DMIS"
-context: "Metrology Education • ME 203"
-stack: "Technical writing, instructional design, GD&T standards, CMM operation, PC-DMIS software, knowledge extraction"
+context: "Mechanical Engineering • Metrology"
+skills: "Technical writing · Instructional design · Engineering documentation · Safety-critical procedures · Audience-specific communication"
 repo: "https://github.com/marilyn-croffie/cmm-gdt-manual"
+📄 **[Download Training Manual (PDF)](CMM_Tutorial_Manual_PC-DMIS.pdf)**
 featured: true
-excerpt: "Comprehensive 20-page training manual teaching Coordinate Measuring Machine operation and Geometric Dimensioning & Tolerancing using PC-DMIS software — synthesized from tacit expert knowledge during the pandemic when no textbook existed for lab."
+excerpt: "A step-by-step technical manual built to help ME 203 students understand GD&T and operate a CMM using PC-DMIS software — designed for independent lab use with clear explanations and procedural context."
 ---
 
 ## The Context
