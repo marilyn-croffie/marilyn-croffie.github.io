@@ -6,3 +6,7 @@ author:
   name: Marilyn
 
 markdown: kramdown
+
+collections:
+  projects:
+    output: true
