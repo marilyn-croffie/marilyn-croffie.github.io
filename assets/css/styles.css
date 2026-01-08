@@ -1,1 +1,5 @@
+@import "minima";
 
+.site-title {
+  font-size: 1.4rem;
+}
