@@ -9,6 +9,8 @@ excerpt: "A step-by-step technical manual built to help ME 203 students understa
 ---
 
 📄 **[Download Training Manual (PDF)](_projects/training-manual/CMM_Tutorial_Manual_PC-DMIS.pdf)**
+[![CMM Training Manual thumbnail](/assets/images/training-manual-thumb.png)]
+(/projects/training-manual/)
 
 ## The Context
 
