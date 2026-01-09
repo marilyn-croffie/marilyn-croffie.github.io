@@ -8,9 +8,8 @@ featured: true
 excerpt: "A step-by-step technical manual built to help ME 203 students understand GD&T and operate a CMM using PC-DMIS software — designed for independent lab use with clear explanations and procedural context."
 ---
 
-📄 **[Download Training Manual (PDF)](_projects/training-manual/CMM_Tutorial_Manual_PC-DMIS.pdf)**
-[![CMM Training Manual thumbnail](/assets/images/training-manual-thumb.png)]
-(/projects/training-manual/)
+📄 **[Training Manual (PDF)](_projects/training-manual/CMM_Tutorial_Manual_PC-DMIS.pdf)**
+[![CMM Training Manual thumbnail](/assets/images/training-manual-thumb.png)
 
 ## The Context
 
