@@ -37,7 +37,7 @@ layout: default
   
   <div class="featured-projects">
     {% assign featured = site.projects | where: "featured", true %}
-    {% for project in featured limit:3 %}
+    {% for project in featured %}
       <div class="featured-project">
         <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
         <p class="project-context">{{ project.context }}</p>
@@ -46,19 +46,16 @@ layout: default
       </div>
     {% endfor %}
   </div>
-  
-  <div class="view-all">
-    <a href="{{ '/work' | relative_url }}" class="button">View All Projects</a>
-  </div>
 </section>
 
 <section class="cta-section">
   <div class="cta-box">
-    <h2>Let's Work Together</h2>
-    <p>Building something complex that needs to be documented, taught, or maintained? I can help.</p>
+    <h2>Let's Connect</h2>
+    <p>Interested in working together or learning more about my approach to documentation and systems design?</p>
     <div class="cta-buttons">
       <a href="{{ '/about' | relative_url }}" class="button primary">Learn More About Me</a>
-      <a href="{{ '/work' | relative_url }}" class="button">View My Work</a>
+      <a href="https://www.linkedin.com/in/marilyn-croffie/" class="button" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <a href="mailto:croffie.marilyn@gmail.com" class="button">Email Me</a>
     </div>
   </div>
 </section>
