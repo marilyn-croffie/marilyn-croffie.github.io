@@ -155,9 +155,22 @@ p {
 
 .featured-projects {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 30px;
   margin-bottom: 3rem;
+}
+
+.featured-project {
+  grid-column: span 2;
+}
+
+/* Center the first two items (pyramid effect - 2 top, 3 bottom) */
+.featured-project:nth-child(1) {
+  grid-column: 2 / 4;
+}
+
+.featured-project:nth-child(2) {
+  grid-column: 4 / 6;
 }
 
 .featured-project {
@@ -241,6 +254,8 @@ p {
   gap: 15px;
   justify-content: center;
   flex-wrap: wrap;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .cta-box .button.primary {
@@ -268,6 +283,8 @@ p {
   border-radius: 4px;
   font-weight: 500;
   transition: all 0.2s;
+  min-width: 160px;
+  text-align: center;
 }
 
 .button.primary {
@@ -346,9 +363,21 @@ blockquote {
 
 /* Responsive */
 @media (max-width: 900px) {
-  .capabilities,
+  .capabilities {
+    grid-template-columns: 1fr;
+  }
+  
   .featured-projects {
     grid-template-columns: 1fr;
+  }
+  
+  .featured-project {
+    grid-column: span 1;
+  }
+  
+  .featured-project:nth-child(1),
+  .featured-project:nth-child(2) {
+    grid-column: span 1;
   }
 }
 
