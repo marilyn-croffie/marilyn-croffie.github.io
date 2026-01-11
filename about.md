@@ -6,7 +6,7 @@ permalink: /about/
 
 ## TL;DR
 
-> I work at the intersection of engineering, documentation, and learning systems, turning tacit technical knowledge into clear, durable systems others can understand, use, and build on.
+> I bridge the gap between what's built and what's understood. Whether it's technical systems, research insights, or complex processes, I create the documentation and frameworks that make knowledge accessible, reusable, and extensible.
 
 ---
 
@@ -44,6 +44,6 @@ Good documentation creates institutional memory. It ensures that:
 - The scope and value of technical work are visible to non-technical stakeholders
 - Frameworks and best practices propagate across projects
 
-I believe technical excellence without communication is incomplete. The most elegant algorithm, the most rigorous research, or the most carefully designed system only matters if it can be understood, maintained, and built upon.
+I believe technical excellence without communication is incomplete. The most elegant algorithm, the most rigorous research, or the most carefully designed system only matters if others can understand it, maintain it, and build on it.
 
-If you’re working on a tutorial, training manual, framework, or something complex that needs to be built, understood, maintained, or shared, let’s talk.
+If you're working on a tutorial, training manual, framework, or something complex that needs to be built, understood, maintained, or extended, [let's talk](/#cta-section).
