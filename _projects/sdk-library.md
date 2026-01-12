@@ -4,7 +4,7 @@ title: "Quadrilateral Modeling Library"
 context: "Object-Oriented Design • Java Documentation"
 role: "Software Engineer & Technical Writer"
 stack: "Java, OOP principles, Javadoc, geometric algorithms, technical documentation"
-repo: "https://github.com/yourusername/quadrilateral-modeler"
+repo: "[https://github.com/yourusername/quadrilateral-modeler](https://github.com/marilyn-croffie/quadrilateral-modeler)"
 featured: true
 excerpt: "Geometric modeling library with professional-grade Javadoc that doesn't just document the API—it teaches the design decisions, explains the 'why' behind implementation choices, and guides developers through proper usage."
 ---
