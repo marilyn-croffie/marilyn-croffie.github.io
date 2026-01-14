@@ -10,11 +10,11 @@ excerpt: "Complete software development lifecycle documentation suite (80+ pages
 ---
 
 ## The Context
-I led a four-person team building an automated core scheduling engine for MavPASS, a peer-facilitated academic support program at MSU, Mankato. The goal was to generate schedules that placed sessions at times that actually worked for both student leaders running the sessions and students trying to attend them.
+I led a four-person team building an automated scheduling engine for MavPASS, a peer-facilitated academic support program at MSU, Mankato. Creating schedules was a manual, time-intensive process, and small changes often required starting over.
 
-The software needed to balance student accessibility, leader availability, and operational constraints, and it was intended to be developed into a full application across semesters by rotating student teams.
+The goal was to generate schedules that worked for both student leaders and students, while reducing the operational overhead enough that staff could focus on developing the program rather than managing logistics.
 
-From the outset, it was clear that documentation would determine whether the system survived beyond the original developers.
+Because the system was expected to be extended across semesters by rotating student teams, documentation mattered from the beginning.
 
 ## The Challenge
 This was not a case of writing documentation after the fact. The team needed to understand unfamiliar concepts — genetic algorithms, constraint optimization, database design — while building production software under time and resource constraints.
