@@ -8,7 +8,6 @@ layout: page
     <strong>Context:</strong> {{ page.context }} <br />
     <strong>Role:</strong> {{ page.role }} <br />
     <strong>Skills:</strong> {{ page.stack }} <br />
-    <strong>Repo:</strong>
     {% if page.repo %}
     <strong>Link:</strong>
     <a href="{{ page.repo }}" target="_blank">{% if page.repo_label %}{{ page.repo_label }}{% else %}View Project{% endif %} ↗</a>
@@ -18,7 +17,7 @@ layout: page
   {{ content }}
 </article>
 
-{% assign featured = site.projects | where: "featured", true | sort: "title" %}
+{% assign featured = site.projects | where: "featured", true | sort: "order" %}
 {% for item in featured %}
   {% if item.url == page.url %}
     {% assign current_index = forloop.index0 %}
@@ -29,20 +28,22 @@ layout: page
 {% assign prev_index = current_index | minus: 1 %}
 {% assign next_index = current_index | plus: 1 %}
 
-<nav class="project-navigation">
+<nav class="project-navigation" aria-label="Project navigation">
   <div class="nav-links">
     {% if prev_index >= 0 %}
-      <a href="{{ featured[prev_index].url | relative_url }}" class="nav-prev">
-        ← {{ featured[prev_index].title }}
-      </a>
+      <a href="{{ featured[prev_index].url | relative_url }}" 
+         class="nav-prev" 
+         aria-label="Previous: {{ featured[prev_index].title }}"></a>
     {% else %}
-      <span></span>
+      <span class="nav-spacer"></span>
     {% endif %}
     
     {% if next_index < featured.size %}
-      <a href="{{ featured[next_index].url | relative_url }}" class="nav-next">
-        {{ featured[next_index].title }} →
-      </a>
+      <a href="{{ featured[next_index].url | relative_url }}" 
+         class="nav-next" 
+         aria-label="Next: {{ featured[next_index].title }}"></a>
+    {% else %}
+      <span class="nav-spacer"></span>
     {% endif %}
   </div>
 </nav>
