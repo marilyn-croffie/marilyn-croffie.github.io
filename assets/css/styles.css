@@ -1,3 +1,4 @@
+
 @import "minima";
 
 /* Base Improvements */
@@ -234,7 +235,7 @@ p {
   margin-top: 20px;
 }
 
-.carousel-dot {
+.carousel-dots .carousel-dot {
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -243,12 +244,12 @@ p {
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.carousel-dot.active {
+.carousel-dots .carousel-dot.active {
   background-color: #2a7ae2;
   transform: scale(1.3);
 }
 
-.carousel-dot:hover {
+.carousel-dots .carousel-dot:hover {
   background-color: #999;
 }
 
@@ -406,6 +407,12 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.project-navigation .nav-spacer {
+  width: 50px;
+  height: 50px;
+  visibility: hidden;
 }
 
 .project-navigation a {
