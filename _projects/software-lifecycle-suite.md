@@ -4,8 +4,10 @@ title: "Software Lifecycle Documentation Suite"
 context: "Scheduling Software • Genetic Algorithms"
 role: "Team Lead, Software Engineer, Technical Writer"
 stack: "Technical documentation • Project management • Requirements analysis • Database design • Testing • Knowledge transfer"
+repo_label: "GitHub"
 repo: "https://github.com/marilyn-croffie/project-documentation-suite"
 featured: true
+order: 3
 excerpt: "Complete software development lifecycle documentation suite (80+ pages across 6 documents) for a scheduling system deployed Spring 2023, now used as program templates throughout the project-based Computer Science program."
 ---
 
