@@ -4,8 +4,10 @@ title: "Professional Skills Curriculum for Collaborative STEM Work"
 context: "ACM SIGDOC Research Paper • Published Oct. 2025"
 role: "Curriculum Designer, Developer Advocate, Researcher, First Author"
 stack: "Curriculum design • Educational research • Professional communication • Cognitive load theory • Experiential learning • Team dynamics"
+repo_label: "ACM Digital Library"
 repo: "https://doi.org/10.1145/3711670.3764618"
 featured: true
+order: 4
 excerpt: "Published research on designing a comprehensive curriculum teaching professional collaboration, communication, and team effectiveness in project-based STEM programs — grounded in cognitive psychology and experiential learning theory."
 ---
 
