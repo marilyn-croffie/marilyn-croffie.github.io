@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -38,7 +37,7 @@ layout: default
   
   <div class="featured-projects-wrapper">
     <div class="featured-projects" id="carousel">
-      {% assign featured = site.projects | where: "featured", true %}
+      {% assign featured = site.projects | where: "featured", true | sort: "order" %}
       {% for project in featured %}
         <div class="featured-project" data-index="{{ forloop.index0 }}">
           <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
