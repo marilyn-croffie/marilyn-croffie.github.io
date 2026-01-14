@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## TL;DR
+#### TL;DR
 
 > I bridge the gap between what’s built and what’s understood.
 Whether it’s technical systems, research insights, or complex processes, I create documentation and frameworks that make knowledge accessible, reusable, and extensible.
