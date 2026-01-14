@@ -4,7 +4,7 @@ title: "GD&T Training Manual for CMM PC-DMIS"
 context: "Mechanical Engineering • Metrology"
 role: "Technical Writer, Documentation Engineer"
 stack: "Technical writing · Instructional design · Engineering documentation · Safety-critical procedures · Audience-specific communication"
-repo: "https://github.com/marilyn-croffie/cmm-gdt-manual"
+repo: "https://github.com/marilyn-croffie/cmm-gdt-manual/blob/main/CMM_Tutorial_Manual_PC-DMIS.pdf"
 featured: true
 excerpt: "A step-by-step technical manual built to help ME 203 students operate a CMM using PC-DMIS software — designed for independent lab use with clear explanations and procedural context."
 ---
