@@ -6,44 +6,54 @@ permalink: /about/
 
 ## TL;DR
 
-> I bridge the gap between what's built and what's understood. Whether it's technical systems, research insights, or complex processes, I create the documentation and frameworks that make knowledge accessible, reusable, and extensible.
+> I bridge the gap between what’s built and what’s understood.
+Whether it’s technical systems, research insights, or complex processes, I create documentation and frameworks that make knowledge accessible, reusable, and extensible.
 
 ---
 
-Hi, I’m Marilyn. I source, synthesize, and document information.
+## Hi, I’m Marilyn. 
+I source, synthesize, and document information.
 
-I work at the intersection of engineering, documentation, and teaching and learning systems. I build bridges by translating technical complexity into general understanding, and by turning what’s built, tacit, or assumed into readily available knowledge others can leverage. 
+I work at the intersection of engineering, documentation, and learning systems. My role is often to stand between what’s being built and the people who need to understand, use, maintain, or extend it — and make that handoff actually work.
+
+I translate technical complexity into shared understanding, and turn what’s assumed, scattered, or living in people’s heads into knowledge others can reliably build on.
 
 ---
 
 ## The Drive
-I’m a lifelong learner with a deep curiosity - I want to know something about anything and everything. I'm intrigued by the smallest everyday things and how they fit into the grand scheme of things. What lights up my brain is recognizing patterns across domains and making sense of seemingly unrelated ideas. I'm not satisfied with just knowing the facts; I want to understand the gaps, the connections, the _why_ behind the _what_.
+I’m a lifelong learner with deep curiosity. I want to know how things work together.
 
-This drive is why I’ve often been the go-to person to explain concepts, regardless of whether I knew the subject matter beforehand. It was never about what I already knew, but about what I could figure out - identifying where misunderstanding crept in and resolving it, whether that meant bridging conceptual gaps, making dense material more accessible, or breaking overwhelming information into digestible pieces.
+What consistently pulls me in is pattern-finding across domains: noticing where ideas repeat, where systems break down, and where understanding gets lost between experts and everyone else. I’m not satisfied with knowing what works; I want to understand _why_, and _where_ that understanding tends to fail.
+
+That’s why I’ve often been the person people turn to for explanations — even when the subject is new to me. The value I bring isn’t prior knowledge; it’s the ability to identify where confusion enters, and to resolve it by restructuring information, clarifying intent, and reducing cognitive friction.
 
 ---
 
 ## The Practice
-I've done this work across industries and contexts, including fintech, research, and education. Sometimes I create original knowledge transfer systems from scratch. Other times, I refine and document what others have built. Often, it's both: I mint systems where none exist, and I make existing work visible, comprehensible, and maintainable.
+I’ve done this work across education, research, and industry contexts.
 
-With dual bachelor's degrees in Computer Science and Interdisciplinary Studies (focused on engineering physics, statistics, and mathematics) and a people-centered approach, I operate at technical depth while creating the scaffolding that brings others along. 
+Sometimes that means creating knowledge-transfer systems from scratch. Other times it means documenting and refining what already exists. Most often, it’s both: making existing work visible and understandable while designing structures that help it scale beyond the original creators.
 
-In practice, this means I:
-- Contextualize projects for technical and non-technical audiences including stakeholders, clients, end users, and anyone curious about what internal teams are building
-- Document implicit knowledge from the processes, decisions, timelines, lessons learned, and solutions that often live in people's heads or informal channels/threads  
-- Design systems for knowledge transfer, including frameworks, templates, documentation architectures, and organizational structures that outlive individual projects
-- Support projects end-to-end, managing the full lifecycle, from requirements gathering and scope negotiation to risk mitigation, testing strategies, and handover documentation
+With dual bachelor’s degrees in Computer Science and Interdisciplinary Studies (engineering physics, statistics, and mathematics), I work comfortably at technical depth — while keeping people, learners, and future contributors in view.
+
+In practice, this looks like:
+- Contextualizing technical work for both technical and non-technical audiences
+- Capturing decisions, constraints, and lessons that usually live in people's heads or informal channels 
+- Designing systems for knowledge transfer, including frameworks, templates, documentation architectures, and organizational structures that outlive individual projects
+- Supporting work across its full lifecycle, from requirements and scope negotiation to testing strategies and handover documentation
 
 ---
 
 ## The Value
-Good documentation creates institutional memory. It ensures that:
+Good documentation creates institutional memory. 
+
+It ensures that:
 - Knowledge remains accessible even as people move on
 - Onboarding time shrinks dramatically because information is explicit, not tribal
-- Technical work becomes reusable and built on instead of reinventing solutions
-- The scope and value of technical work are visible to non-technical stakeholders
-- Frameworks and best practices propagate across projects
+- Technical work becomes reusable instead of repeatedly reinvented
+- The value of technical work is visible to non-technical stakeholders
+- Practices and insights propagate across teams and projects
 
-I believe technical excellence without communication is incomplete. The most elegant algorithm, the most rigorous research, or the most carefully designed system only matters if others can understand it, maintain it, and build on it.
+I believe technical excellence without communication is incomplete. A system only succeeds if people can understand it, maintain it, and build on it.
 
-If you're working on a tutorial, training manual, framework, or something complex that needs to be built, understood, maintained, or extended, [let's talk](/#cta-section).
+If you’re working on something complex that needs to be built, understood, sustained, or taught, [let's talk](/#cta-section).
