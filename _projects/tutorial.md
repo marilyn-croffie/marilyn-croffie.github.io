@@ -4,8 +4,10 @@ title: "Keyword Arguments in Python"
 context: "Published Tutorial • Educative.io"
 role: "Co-Author, Technical Writer, Internal Contributor"
 stack: "Python · Technical writing · Instructional design · Editorial review"
+repo_label: "Educative.io"
 repo: "https://www.educative.io/blog/what-are-keyword-arguments-in-python"
 featured: true
+order: 2
 excerpt: "Competition-winning Python tutorial that became one of Educative.io's most-viewed articles"
 ---
 
