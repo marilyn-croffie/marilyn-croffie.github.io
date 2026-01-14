@@ -1,8 +1,8 @@
 ---
 layout: project
 title: "Professional Skills Curriculum for Collaborative STEM Work"
-context: "ACM SIGDOC Research Paper • Published 2025"
-role: "Curriculum Designer, Researcher, First Author"
+context: "ACM SIGDOC Research Paper • Published Oct. 2025"
+role: "Curriculum Designer, Developer Advocate, Researcher, First Author"
 stack: "Curriculum design • Educational research • Professional communication • Cognitive load theory • Experiential learning • Team dynamics"
 repo: "https://doi.org/10.1145/3711670.3764618"
 featured: true
@@ -15,7 +15,7 @@ In Spring 2022, I was an undergraduate in a project-based Computer Science progr
 Although the program emphasized “working successfully in diverse and inclusive environments” as a graduation outcome, there were no structured learning experiences that taught students how to do this work in practice.
 
 ## The Challenge
-The gap wasn’t a lack of intention—it was a lack of infrastructure. Professional collaboration skills were expected, but not taught systematically.
+The gap wasn’t a lack of intention — it was a lack of infrastructure. Professional collaboration skills were expected, but not taught systematically.
 
 I wanted to design learning experiences that treated communication, self-awareness, and team dynamics as learnable professional skills, rather than traits students were assumed to already have.
 
