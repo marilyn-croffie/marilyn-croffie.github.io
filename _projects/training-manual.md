@@ -15,7 +15,7 @@ I was enrolled in ME 203 (Geometric Dimensioning and Tolerancing) during Spring 
 As one of the last groups to complete the lab in person, we were asked to create a manual that could support students when demonstrations and consistent lab access were no longer guaranteed.
 
 ## The Challenge
-I wanted to write something students could rely on while working at the machine. The goal was to capture the kinds of guidance I got from watching the experienced technician demonstrate, what I figured out through trial and error, and what I had to piece together from reference material.
+I wanted to write something students could rely on while working at the machine. The goal was to capture the kinds of guidance I normally picked up through observation: what the technician demonstrated, what I learned through trial and error, and what had to be pieced together from reference material.
 
 The challenge was to bring those threads together into a single guide that made the work feel navigable.
 
